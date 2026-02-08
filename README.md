@@ -1,4 +1,4 @@
-# CineHub 2.0
+# CineHub 
 
 An advanced online movie booking platform built with MERN stack and TypeScript. CineHub 2.0 provides a seamless experience for users to browse movies, view showtimes, select seats, and make bookings, while admins can manage movies and shows.
 
